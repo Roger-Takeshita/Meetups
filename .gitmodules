@@ -1,3 +1,6 @@
 [submodule "webinar-ci"]
 	path = webinar-ci
 	url = https://github.com/code-mentoring/webinar-ci
+[submodule "webinar-puppeteer-jest"]
+	path = webinar-puppeteer-jest
+	url = https://github.com/code-mentoring/webinar-puppeteer-jest
