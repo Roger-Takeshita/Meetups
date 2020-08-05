@@ -4,3 +4,6 @@
 [submodule "webinar-puppeteer-jest"]
 	path = webinar-puppeteer-jest
 	url = https://github.com/code-mentoring/webinar-puppeteer-jest
+[submodule "promise-demo"]
+	path = promise-demo
+	url = https://github.com/evert/promise-demo.git
